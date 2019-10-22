@@ -13,6 +13,7 @@ body, html {
     display: grid;
     overflow: hidden;
 	background: #4C5D63;
+	font-size: 100%;
 }
 
 .center {
@@ -42,7 +43,7 @@ body, html {
 	position: absolute;
 	top: 103%;
 	left: 0px;
-	
+
 	font-family: 'hand_written';
 	font-size: 10px;
 	color: #071D22;
